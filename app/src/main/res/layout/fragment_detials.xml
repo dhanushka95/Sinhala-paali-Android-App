@@ -1,0 +1,58 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ffffff">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal"
+        android:paddingLeft="1dp"
+        android:paddingRight="1dp"
+        android:elevation="1.46dp"
+        android:background="#ffffff"
+         >
+
+        <TextView
+            android:id="@+id/text2"
+            android:textStyle="bold"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:gravity="bottom"
+            android:text="Details"
+            android:textColor="#ed314d"
+            android:textSize="18sp"
+            android:background="#ffffff"/>
+
+
+
+        <ImageButton
+            android:id="@+id/checkbox"
+            android:layout_width="60dp"
+            android:layout_height="36dp"
+            android:layout_gravity="bottom"
+            android:background="#ffffff"
+            android:src="@drawable/ic_bookmark_border" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/details"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="0dp"
+        android:background="#ffffff"
+        android:gravity="center"
+        android:dividerHeight="2sp"
+        android:divider="#ffffff"
+        android:paddingEnd="5dp"
+        android:paddingStart="5dp"
+        android:paddingTop="5dp"/>
+
+</LinearLayout>

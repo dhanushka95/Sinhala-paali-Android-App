@@ -1,0 +1,42 @@
+
+<resources>
+    <string name="app_name">SinhalaPaliDictionay</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Help_String">\nමෙහි භාවිත කර ඇති කෙටි යෙදුම්\n\n
+
+පු - පුල්ලිංග\n
+ඉ - ඉත්ථිලිංග\n
+න - නපුංසකලිංග\n
+3. - තුන්ලිගුවෙහිම යෙදේ\n
+නි - නිපාත\n
+නා - නාමපද\n
+ස - සමාස\n
+පු.ක්‍රි. - පූර්ව  ක්‍රියා\n
+අ. ක්‍රි. - අතීත ක්‍රියා\n
+ක්‍රි. වි. - ක්‍රියා විශේෂණ\n
+සි - සිංහල වචන\n\n
+
+
+මෙහිදී,\n\n
+අවශ්‍යතාවය අනුව සිංහල හා පාලි භාෂාව අතර හුවමාරු වීමේ හැකියාව ඇත.\n\n
+
+තේරුම් දැන ගැනීම සඳහා අවශ්‍ය වචනය වාචිකව ලබා දීමෙන් නිවැරදි තේරුම ලබා ගත හැකිය.\n
+
+මෘදුකාංගය මගින් යෝජනා කර ඇති වචන තේරීමෙන්ද නිවැරදි තේරුම සොයා ගත හැකි වේ.\n\n\n\n\n\n\n\n
+</string>
+
+    <string name="About_String">\nPALI යනු, පාලි භාෂාව අධ්‍යයනය කරන, පාලි භාෂාවෙන් ලේඛන කටයුතු සිදුකරන සියලුම දෙනා වෙනුවෙන් විශේෂයෙන් සකස් කරන ලද යෙදවුමකි. මෙම යෙදවුම පරිශීලනය කිරීම ඕනෑම අයෙකුට ඉතාමත් පහසුවෙන් සිදු කළ හැක්කකි. \n\n
+මෙහි සපයා ඇති විශේෂ පහසුකම් හරහා පාලි වචන ක්ෂණයකින් පරිවර්තනය කර ගැනීමේ හැකියාව ලැබේ.\n\n
+
+ PALI මගින් සපයා දෙන විශේෂ පහසුකමක් ලෙස, \n
+     නිතරම භාවිත කරන වචන වලට පිටු සළකුණක් යෙදීමත්,\n
+     කථනය හරහා ලේඛනගත කිරීමේ පහසුකම් සැපයීමත් හඳුනාගත හැකිය.\n
+</string>
+</resources>
